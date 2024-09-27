@@ -3,7 +3,7 @@ name: macOS Release Build
 on:
   push:
     branches:
-      - macos-release-build
+      - master
     tags:
       - '*'
 
